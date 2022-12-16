@@ -1,0 +1,10 @@
+{
+  "name": "RopuchaJebava - Dozorce Ivan",
+  "version": "1.0",
+  "authors": "Ja",
+  "description": "Poradne se kouli jak masivni balik",
+  "homepage": "",
+  "countryCodes": "cz",
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
